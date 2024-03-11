@@ -20,4 +20,4 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ##### Personas-Desarrolladores del Proyecto:
 - Jessica Olvera Gordillo
--Codr Kai ( Original)
+- Codr Kai ( Original)
