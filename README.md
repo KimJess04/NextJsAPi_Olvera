@@ -19,5 +19,5 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 - Uso de React-icons
 
 ##### Personas-Desarrolladores del Proyecto:
-- Jessica Olvera Gordillo
-- Codr Kai ( Original)
+- Jessica Olvera Gordillo.
+- Codr Kai ( Original).
